@@ -1,0 +1,147 @@
+[
+  {
+    "node": "28:720",
+    "file": "index.html",
+    "title": "HOME",
+    "assets": [
+      "assets/28-720-5e578.webp",
+      "assets/28-720-897f6.svg",
+      "assets/28-720-55308.svg",
+      "assets/28-720-e7a81.svg",
+      "assets/28-720-0445d.svg",
+      "assets/28-720-56879.svg",
+      "assets/28-720-ad9f7.svg"
+    ]
+  },
+  {
+    "node": "29:1712",
+    "file": "living/index.html",
+    "title": "生き物紹介",
+    "assets": [
+      "../assets/29-1712-63e8b.webp",
+      "../assets/29-1712-95384.webp",
+      "../assets/29-1712-0e29b.webp",
+      "../assets/29-1712-740db.webp"
+    ]
+  },
+  {
+    "node": "28:683",
+    "file": "living/teams/fish.html",
+    "title": "魚類班紹介",
+    "assets": [
+      "../../assets/28-683-782ce.webp"
+    ]
+  },
+  {
+    "node": "28:794",
+    "file": "living/teams/reptiles.html",
+    "title": "爬虫類班紹介",
+    "assets": []
+  },
+  {
+    "node": "28:810",
+    "file": "living/teams/amphibians.html",
+    "title": "両生類班紹介",
+    "assets": [
+      "../../assets/28-810-d0e0a.webp",
+      "../../assets/28-810-ee0f0.webp"
+    ]
+  },
+  {
+    "node": "28:828",
+    "file": "living/teams/insects.html",
+    "title": "昆虫類班紹介",
+    "assets": [
+      "../../assets/28-828-548ba.webp",
+      "../../assets/28-828-2a775.png"
+    ]
+  },
+  {
+    "node": "28:846",
+    "file": "living/teams/plants.html",
+    "title": "植物班紹介",
+    "assets": []
+  },
+  {
+    "node": "29:1475",
+    "file": "junior/insects.html",
+    "title": "夏の昆虫採集",
+    "assets": [
+      "../assets/29-1475-6c3e3.webp",
+      "../assets/29-1475-a0061.png",
+      "../assets/29-1475-a3ae3.png",
+      "../assets/29-1475-63b63.png",
+      "../assets/29-1475-52c01.png",
+      "../assets/29-1475-06301.png",
+      "../assets/29-1475-a4f53.png"
+    ]
+  },
+  {
+    "node": "29:1403",
+    "file": "junior/aquarium.html",
+    "title": "誰もが目を奪われる、アクアリウムについて",
+    "assets": [
+      "../assets/29-1403-8cb97.png",
+      "../assets/29-1403-703cb.webp",
+      "../assets/29-1403-b15d3.webp",
+      "../assets/29-1403-3592c.webp"
+    ]
+  },
+  {
+    "node": "29:1415",
+    "file": "junior/summer.html",
+    "title": "夏の採集まとめ５月〜９月",
+    "assets": [
+      "../assets/29-1415-6c196.png",
+      "../assets/29-1415-a35e0.png",
+      "../assets/29-1415-5b38f.png",
+      "../assets/29-1415-fb899.png"
+    ]
+  },
+  {
+    "node": "29:1590",
+    "file": "senior/gecko.html",
+    "title": "ヤモリの張り付きの原理と応用",
+    "assets": [
+      "../assets/29-1590-268b2.png",
+      "../assets/29-1590-1289c.png"
+    ]
+  },
+  {
+    "node": "29:1552",
+    "file": "senior/plankton.html",
+    "title": "プランクトン観察の手引き",
+    "assets": [
+      "../assets/29-1552-358b3.png",
+      "../assets/29-1552-c83e0.png",
+      "../assets/29-1552-860bb.png",
+      "../assets/29-1552-c610c.png",
+      "../assets/29-1552-756fe.png",
+      "../assets/29-1552-ea665.png"
+    ]
+  },
+  {
+    "node": "29:1540",
+    "file": "senior/frog.html",
+    "title": "カエルはなぜ嫌われるのか",
+    "assets": [
+      "../assets/29-1540-83bb0.png"
+    ]
+  },
+  {
+    "node": "29:1575",
+    "file": "senior/veterinarian.html",
+    "title": "獣医師の職域偏在について",
+    "assets": [
+      "../assets/29-1575-04371.png",
+      "../assets/29-1575-db1f8.png",
+      "../assets/29-1575-f4319.png"
+    ]
+  },
+  {
+    "node": "29:1529",
+    "file": "senior/life.html",
+    "title": "生と死",
+    "assets": []
+  }
+]
