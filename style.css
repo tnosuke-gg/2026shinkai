@@ -316,3 +316,5 @@
 /* Body text without stray blank lines: paragraph spacing comes from margins, not whitespace. */
 .article .prose>p+p{margin-top:1em}
 .article .prose>p.s20:not(:first-child){margin-top:2.4em}
+/* Keep the site header visible while scrolling. */
+.site-header{position:sticky;top:0;z-index:10}
